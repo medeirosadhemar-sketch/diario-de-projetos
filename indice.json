@@ -4,5 +4,11 @@
     "titulo": "Dragon: um app de música próprio em cima do Jellyfin",
     "projeto": "Dragon",
     "caminho": "posts/2026/11/2026-11-12-dragon-um-app-de-musica-proprio-em-cima-do-jellyfin.md"
+  },
+  {
+    "data": "2026-11-13",
+    "titulo": "Arquitetura do estoque de uma lanchonete: um app.py, SQLite e um container de 256 MB",
+    "projeto": "Sistema de estoque e cardápio",
+    "caminho": "posts/2026/11/2026-11-13-arquitetura-do-sistema-de-estoque-de-uma-lanchonete-um-app-p.md"
   }
 ]
