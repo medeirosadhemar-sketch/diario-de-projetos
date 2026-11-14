@@ -10,5 +10,11 @@
     "titulo": "Arquitetura do estoque de uma lanchonete: um app.py, SQLite e um container de 256 MB",
     "projeto": "Sistema de estoque e cardápio",
     "caminho": "posts/2026/11/2026-11-13-arquitetura-do-sistema-de-estoque-de-uma-lanchonete-um-app-p.md"
+  },
+  {
+    "data": "2026-11-14",
+    "titulo": "Arquitetura do gerador: um pipeline de skills do Claude Code com uma tarefa por bloco",
+    "projeto": "Gerador de documentos com IA",
+    "caminho": "posts/2026/11/2026-11-14-arquitetura-do-gerador-um-pipeline-de-skills-do-claude-code-.md"
   }
 ]
