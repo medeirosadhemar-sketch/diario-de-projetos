@@ -28,5 +28,11 @@
     "titulo": "Deploy que troca só o código e nunca sobrescreve o banco SQLite",
     "projeto": "Sistema de estoque e cardápio",
     "caminho": "posts/2026/11/2026-11-16-deploy-que-troca-so-o-codigo-e-nunca-sobrescreve-o-banco.md"
+  },
+  {
+    "data": "2026-11-17",
+    "titulo": "Conferir CSS pelos estilos calculados quando a página roda a 1 quadro/s",
+    "projeto": "Dragon",
+    "caminho": "posts/2026/11/2026-11-17-conferir-css-pelos-estilos-calculados-quando-a-pagina-roda-a.md"
   }
 ]
