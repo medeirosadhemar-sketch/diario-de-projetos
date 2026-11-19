@@ -2,10 +2,11 @@
 
 Um post técnico por dia sobre os projetos que eu construo: software, automação, infraestrutura doméstica, eletrônica e os laboratórios da engenharia. Cada post pega um ponto só (uma decisão, um algoritmo, um problema resolvido, uma medição) e explica como funciona por dentro.
 
-**7 posts** em **4 projetos**. Também publicados no LinkedIn.
+**8 posts** em **5 projetos**. Também publicados no LinkedIn.
 
 ## Últimos
 
+- 2026-11-19 · **Launcher para Smart TV** · [v1 contra v2 na TV: de 30–46 fps com travadas de 350 ms para 52–58 fps](posts/2026/11/2026-11-19-v1-contra-v2-de-3046-fps-com-travadas-de-350-ms-para-5258-fp.md)
 - 2026-11-18 · **Sukuna** · [Sukuna: 1000 filmes e séries gerados por uma cadeia de scripts sobre os datasets do IMDb](posts/2026/11/2026-11-18-sukuna-catalogo-de-1000-filmes-e-series-montado-a-partir-dos.md)
 - 2026-11-17 · **Dragon** · [Conferir CSS pelos estilos calculados quando a página roda a 1 quadro/s](posts/2026/11/2026-11-17-conferir-css-pelos-estilos-calculados-quando-a-pagina-roda-a.md)
 - 2026-11-16 · **Sistema de estoque e cardápio** · [Deploy que troca só o código e nunca sobrescreve o banco SQLite](posts/2026/11/2026-11-16-deploy-que-troca-so-o-codigo-e-nunca-sobrescreve-o-banco.md)
@@ -25,6 +26,10 @@ Um post técnico por dia sobre os projetos que eu construo: software, automaçã
 ### Gerador de documentos com IA
 
 - [Arquitetura do gerador: um pipeline de skills do Claude Code com uma tarefa por bloco](posts/2026/11/2026-11-14-arquitetura-do-gerador-um-pipeline-de-skills-do-claude-code-.md) · 2026-11-14
+
+### Launcher para Smart TV
+
+- [v1 contra v2 na TV: de 30–46 fps com travadas de 350 ms para 52–58 fps](posts/2026/11/2026-11-19-v1-contra-v2-de-3046-fps-com-travadas-de-350-ms-para-5258-fp.md) · 2026-11-19
 
 ### Sistema de estoque e cardápio
 

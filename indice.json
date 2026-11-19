@@ -40,5 +40,11 @@
     "titulo": "Sukuna: 1000 filmes e séries gerados por uma cadeia de scripts sobre os datasets do IMDb",
     "projeto": "Sukuna",
     "caminho": "posts/2026/11/2026-11-18-sukuna-catalogo-de-1000-filmes-e-series-montado-a-partir-dos.md"
+  },
+  {
+    "data": "2026-11-19",
+    "titulo": "v1 contra v2 na TV: de 30–46 fps com travadas de 350 ms para 52–58 fps",
+    "projeto": "Launcher para Smart TV",
+    "caminho": "posts/2026/11/2026-11-19-v1-contra-v2-de-3046-fps-com-travadas-de-350-ms-para-5258-fp.md"
   }
 ]
