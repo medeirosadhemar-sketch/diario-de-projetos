@@ -46,5 +46,11 @@
     "titulo": "v1 contra v2 na TV: de 30–46 fps com travadas de 350 ms para 52–58 fps",
     "projeto": "Launcher para Smart TV",
     "caminho": "posts/2026/11/2026-11-19-v1-contra-v2-de-3046-fps-com-travadas-de-350-ms-para-5258-fp.md"
+  },
+  {
+    "data": "2026-11-20",
+    "titulo": "Arquitetura de um equalizador de três bandas com somador e push-pull classe B/AB",
+    "projeto": "Amplificador classe AB com equalizador de três bandas (banca)",
+    "caminho": "posts/2026/11/2026-11-20-arquitetura-do-sistema-equalizador-de-tres-bandas-somador-e-.md"
   }
 ]
