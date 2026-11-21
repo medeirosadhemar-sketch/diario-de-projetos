@@ -2,10 +2,11 @@
 
 Um post técnico por dia sobre os projetos que eu construo: software, automação, infraestrutura doméstica, eletrônica e os laboratórios da engenharia. Cada post pega um ponto só (uma decisão, um algoritmo, um problema resolvido, uma medição) e explica como funciona por dentro.
 
-**9 posts** em **6 projetos**. Também publicados no LinkedIn.
+**10 posts** em **7 projetos**. Também publicados no LinkedIn.
 
 ## Últimos
 
+- 2026-11-21 · **Carrinho seguidor de linha sem microcontrolador (banca)** · [Carrinho seguidor de linha com 11 circuitos discretos e nenhum microcontrolador](posts/2026/11/2026-11-21-carrinho-seguidor-de-linha-com-11-circuitos-discretos-e-nenh.md)
 - 2026-11-20 · **Amplificador classe AB com equalizador de três bandas (banca)** · [Arquitetura de um equalizador de três bandas com somador e push-pull classe B/AB](posts/2026/11/2026-11-20-arquitetura-do-sistema-equalizador-de-tres-bandas-somador-e-.md)
 - 2026-11-19 · **Launcher para Smart TV** · [v1 contra v2 na TV: de 30–46 fps com travadas de 350 ms para 52–58 fps](posts/2026/11/2026-11-19-v1-contra-v2-de-3046-fps-com-travadas-de-350-ms-para-5258-fp.md)
 - 2026-11-18 · **Sukuna** · [Sukuna: 1000 filmes e séries gerados por uma cadeia de scripts sobre os datasets do IMDb](posts/2026/11/2026-11-18-sukuna-catalogo-de-1000-filmes-e-series-montado-a-partir-dos.md)
@@ -21,6 +22,10 @@ Um post técnico por dia sobre os projetos que eu construo: software, automaçã
 ### Amplificador classe AB com equalizador de três bandas (banca)
 
 - [Arquitetura de um equalizador de três bandas com somador e push-pull classe B/AB](posts/2026/11/2026-11-20-arquitetura-do-sistema-equalizador-de-tres-bandas-somador-e-.md) · 2026-11-20
+
+### Carrinho seguidor de linha sem microcontrolador (banca)
+
+- [Carrinho seguidor de linha com 11 circuitos discretos e nenhum microcontrolador](posts/2026/11/2026-11-21-carrinho-seguidor-de-linha-com-11-circuitos-discretos-e-nenh.md) · 2026-11-21
 
 ### Dragon
 

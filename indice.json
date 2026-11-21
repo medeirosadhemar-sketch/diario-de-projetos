@@ -52,5 +52,11 @@
     "titulo": "Arquitetura de um equalizador de três bandas com somador e push-pull classe B/AB",
     "projeto": "Amplificador classe AB com equalizador de três bandas (banca)",
     "caminho": "posts/2026/11/2026-11-20-arquitetura-do-sistema-equalizador-de-tres-bandas-somador-e-.md"
+  },
+  {
+    "data": "2026-11-21",
+    "titulo": "Carrinho seguidor de linha com 11 circuitos discretos e nenhum microcontrolador",
+    "projeto": "Carrinho seguidor de linha sem microcontrolador (banca)",
+    "caminho": "posts/2026/11/2026-11-21-carrinho-seguidor-de-linha-com-11-circuitos-discretos-e-nenh.md"
   }
 ]
