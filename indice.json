@@ -76,5 +76,11 @@
     "titulo": "Base giratória com motor CC num braço de papelão que era movido por seringas",
     "projeto": "Braço de papelão com motores CC (banca do 2º módulo)",
     "caminho": "posts/2026/11/2026-11-24-trocando-o-acionamento-hidraulico-de-um-braco-de-papelao-por.md"
+  },
+  {
+    "data": "2026-11-25",
+    "titulo": "Revisão de estrutura: laço até zero erros e avisos falsos removidos do verificador",
+    "projeto": "Gerador de documentos com IA",
+    "caminho": "posts/2026/11/2026-11-25-laco-de-correcao-ate-zero-erros-e-falsos-positivos-eliminado.md"
   }
 ]

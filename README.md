@@ -2,10 +2,11 @@
 
 Um post técnico por dia sobre os projetos que eu construo: software, automação, infraestrutura doméstica, eletrônica e os laboratórios da engenharia. Cada post pega um ponto só (uma decisão, um algoritmo, um problema resolvido, uma medição) e explica como funciona por dentro.
 
-**13 posts** em **8 projetos**. Também publicados no LinkedIn.
+**14 posts** em **8 projetos**. Também publicados no LinkedIn.
 
 ## Últimos
 
+- 2026-11-25 · **Gerador de documentos com IA** · [Revisão de estrutura: laço até zero erros e avisos falsos removidos do verificador](posts/2026/11/2026-11-25-laco-de-correcao-ate-zero-erros-e-falsos-positivos-eliminado.md)
 - 2026-11-24 · **Braço de papelão com motores CC (banca do 2º módulo)** · [Base giratória com motor CC num braço de papelão que era movido por seringas](posts/2026/11/2026-11-24-trocando-o-acionamento-hidraulico-de-um-braco-de-papelao-por.md)
 - 2026-11-23 · **Sistema de estoque e cardápio** · [Ampliação de 100 para 1000 produtos: coleta, seleção por vagas e instalação](posts/2026/11/2026-11-23-pipeline-de-ampliacao-de-100-para-1000-produtos-com-dados-re.md)
 - 2026-11-22 · **Dragon** · [Fundo de 3,9 MB travando o app: PNG 3200×2139 trocado por JPG de 424 KB](posts/2026/11/2026-11-22-fundo-de-3-9-mb-travando-o-app-png-32002139-trocado-por-jpg-.md)
@@ -15,7 +16,6 @@ Um post técnico por dia sobre os projetos que eu construo: software, automaçã
 - 2026-11-18 · **Sukuna** · [Sukuna: 1000 filmes e séries gerados por uma cadeia de scripts sobre os datasets do IMDb](posts/2026/11/2026-11-18-sukuna-catalogo-de-1000-filmes-e-series-montado-a-partir-dos.md)
 - 2026-11-17 · **Dragon** · [Conferir CSS pelos estilos calculados quando a página roda a 1 quadro/s](posts/2026/11/2026-11-17-conferir-css-pelos-estilos-calculados-quando-a-pagina-roda-a.md)
 - 2026-11-16 · **Sistema de estoque e cardápio** · [Deploy que troca só o código e nunca sobrescreve o banco SQLite](posts/2026/11/2026-11-16-deploy-que-troca-so-o-codigo-e-nunca-sobrescreve-o-banco.md)
-- 2026-11-15 · **Dragon** · [Arquitetura do Dragon: Jellyfin, site FastAPI em container e app Android em WebView](posts/2026/11/2026-11-15-arquitetura-do-dragon-jellyfin-site-fastapi-em-container-e-a.md)
 
 ## Por projeto
 
@@ -41,6 +41,7 @@ Um post técnico por dia sobre os projetos que eu construo: software, automaçã
 ### Gerador de documentos com IA
 
 - [Arquitetura do gerador: um pipeline de skills do Claude Code com uma tarefa por bloco](posts/2026/11/2026-11-14-arquitetura-do-gerador-um-pipeline-de-skills-do-claude-code-.md) · 2026-11-14
+- [Revisão de estrutura: laço até zero erros e avisos falsos removidos do verificador](posts/2026/11/2026-11-25-laco-de-correcao-ate-zero-erros-e-falsos-positivos-eliminado.md) · 2026-11-25
 
 ### Launcher para Smart TV
 
