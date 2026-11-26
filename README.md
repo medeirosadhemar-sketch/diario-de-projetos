@@ -2,10 +2,11 @@
 
 Um post técnico por dia sobre os projetos que eu construo: software, automação, infraestrutura doméstica, eletrônica e os laboratórios da engenharia. Cada post pega um ponto só (uma decisão, um algoritmo, um problema resolvido, uma medição) e explica como funciona por dentro.
 
-**14 posts** em **8 projetos**. Também publicados no LinkedIn.
+**15 posts** em **8 projetos**. Também publicados no LinkedIn.
 
 ## Últimos
 
+- 2026-11-26 · **Sukuna** · [Selecionando 1000 títulos com a nota ponderada do Top 250 do IMDb](posts/2026/11/2026-11-26-selecionando-1000-titulos-com-a-nota-ponderada-do-top-250-do.md)
 - 2026-11-25 · **Gerador de documentos com IA** · [Revisão de estrutura: laço até zero erros e avisos falsos removidos do verificador](posts/2026/11/2026-11-25-laco-de-correcao-ate-zero-erros-e-falsos-positivos-eliminado.md)
 - 2026-11-24 · **Braço de papelão com motores CC (banca do 2º módulo)** · [Base giratória com motor CC num braço de papelão que era movido por seringas](posts/2026/11/2026-11-24-trocando-o-acionamento-hidraulico-de-um-braco-de-papelao-por.md)
 - 2026-11-23 · **Sistema de estoque e cardápio** · [Ampliação de 100 para 1000 produtos: coleta, seleção por vagas e instalação](posts/2026/11/2026-11-23-pipeline-de-ampliacao-de-100-para-1000-produtos-com-dados-re.md)
@@ -15,7 +16,6 @@ Um post técnico por dia sobre os projetos que eu construo: software, automaçã
 - 2026-11-19 · **Launcher para Smart TV** · [v1 contra v2 na TV: de 30–46 fps com travadas de 350 ms para 52–58 fps](posts/2026/11/2026-11-19-v1-contra-v2-de-3046-fps-com-travadas-de-350-ms-para-5258-fp.md)
 - 2026-11-18 · **Sukuna** · [Sukuna: 1000 filmes e séries gerados por uma cadeia de scripts sobre os datasets do IMDb](posts/2026/11/2026-11-18-sukuna-catalogo-de-1000-filmes-e-series-montado-a-partir-dos.md)
 - 2026-11-17 · **Dragon** · [Conferir CSS pelos estilos calculados quando a página roda a 1 quadro/s](posts/2026/11/2026-11-17-conferir-css-pelos-estilos-calculados-quando-a-pagina-roda-a.md)
-- 2026-11-16 · **Sistema de estoque e cardápio** · [Deploy que troca só o código e nunca sobrescreve o banco SQLite](posts/2026/11/2026-11-16-deploy-que-troca-so-o-codigo-e-nunca-sobrescreve-o-banco.md)
 
 ## Por projeto
 
@@ -56,3 +56,4 @@ Um post técnico por dia sobre os projetos que eu construo: software, automaçã
 ### Sukuna
 
 - [Sukuna: 1000 filmes e séries gerados por uma cadeia de scripts sobre os datasets do IMDb](posts/2026/11/2026-11-18-sukuna-catalogo-de-1000-filmes-e-series-montado-a-partir-dos.md) · 2026-11-18
+- [Selecionando 1000 títulos com a nota ponderada do Top 250 do IMDb](posts/2026/11/2026-11-26-selecionando-1000-titulos-com-a-nota-ponderada-do-top-250-do.md) · 2026-11-26
