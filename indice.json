@@ -88,5 +88,11 @@
     "titulo": "Selecionando 1000 títulos com a nota ponderada do Top 250 do IMDb",
     "projeto": "Sukuna",
     "caminho": "posts/2026/11/2026-11-26-selecionando-1000-titulos-com-a-nota-ponderada-do-top-250-do.md"
+  },
+  {
+    "data": "2026-11-27",
+    "titulo": "Montar a pasta de música no container do Jellyfin sem quebrar o docker-compose",
+    "projeto": "Dragon",
+    "caminho": "posts/2026/11/2026-11-27-montar-a-pasta-de-musica-no-container-sem-quebrar-o-docker-c.md"
   }
 ]
